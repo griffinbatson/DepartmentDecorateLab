@@ -1,0 +1,41 @@
+h1, p, ul{
+text-align: center;
+    color:white;
+}
+p{
+    color:gold;
+}
+
+body{
+    background-color: black;
+}
+
+ul.navigation{
+    list-style-type: none;
+}
+
+a:link{
+    color:white;
+}
+a:visited{
+    color: gold;
+}
+a:hover{
+    color:gold;
+}
+th, td{
+    border-bottom: 1px solid #ddd;
+        color: white;
+            text-align:center;
+}
+.resize {
+    height: 100;
+        width:100;
+}
+table.center{
+margin-left: auto;
+    margin-right: auto;
+}
+.middle{
+ text-align: center   
+}
